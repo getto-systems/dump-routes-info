@@ -1,3 +1,7 @@
+# Version : 1.0.0
+
+major version
+
 # Version : 0.5.0
 
 fix: dependencies
