@@ -2,7 +2,7 @@ image: node:11.6.0-stretch
 
 release:
   only:
-    - release@getto-systems-labo/dump-routes
+    - release@getto-systems-labo/dump-routes-info
   script:
     - ./bin/push_tags.sh
     - ./bin/publish.sh

@@ -1,6 +1,6 @@
 {
-  "name": "dump-routes",
-  "version": "0.2.0",
+  "name": "dump-routes-info",
+  "version": "0.3.0",
   "description": "dump routes information from config file",
   "main": "index.js",
   "bin": {
