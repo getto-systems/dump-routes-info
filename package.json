@@ -19,9 +19,9 @@
     "url": "https://github.com/getto-systems/dump-routes-info/issues"
   },
   "homepage": "https://github.com/getto-systems/dump-routes-info#readme",
-  "dependencies": {},
-  "devDependencies": {
+  "dependencies": {
     "commander": "^2.19.0",
     "js-yaml": "^3.12.1"
-  }
+  },
+  "devDependencies": {}
 }
