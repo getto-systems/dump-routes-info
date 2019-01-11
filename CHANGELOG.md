@@ -1,3 +1,7 @@
+# Version : 0.5.0
+
+fix: dependencies
+
 # Version : 0.4.0
 
 fix: package.json
