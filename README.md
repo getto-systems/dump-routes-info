@@ -1,9 +1,9 @@
-# dump-routes
+# dump-routes-info
 
 Node.js utility: dump routes information from config file
 
 ```
-dump-routes -f /path/to/routes.yml
+dump-routes-info -f /path/to/routes.yml
 ```
 
 
@@ -25,7 +25,7 @@ dump-routes -f /path/to/routes.yml
 ### CLI
 
 ```
-$ dump-routes -f /path/to/routes.yml -e utf8
+$ dump-routes-info -f /path/to/routes.yml -e utf8
 ```
 
 #### Example
@@ -48,7 +48,7 @@ $ dump-routes -f /path/to/routes.yml -e utf8
 ```
 
 ```
-$ dump-routes -f /path/to/routes.yml
+$ dump-routes-info -f /path/to/routes.yml
 
 {"info":{"path":"index","module":"Index"},"entry":{"name":"index","title":"Home"}}
 {"info":{"path":"system/config","module":"System.Config"},"entry":{"name":"config","title":"System Settings"}}
@@ -59,13 +59,13 @@ $ dump-routes -f /path/to/routes.yml
 ### Install
 
 ```
-$ npm install --save-dev dump-routes
+$ npm install --save-dev dump-routes-info
 ```
 
 
 <a id="License"></a>
 ## License
 
-dump-routes is licensed under the [MIT](LICENSE) license.
+dump-routes-info is licensed under the [MIT](LICENSE) license.
 
 Copyright &copy; since 2018 shun@getto.systems
