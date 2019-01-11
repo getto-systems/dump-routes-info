@@ -1,3 +1,7 @@
+# Version : 0.4.0
+
+fix: package.json
+
 # Version : 0.3.0
 
 rename: dump-routes -> dump-routes-info
