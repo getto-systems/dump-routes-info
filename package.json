@@ -1,6 +1,6 @@
 {
   "name": "parse-routes",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "parse routes information from config file",
   "main": "index.js",
   "bin": {
