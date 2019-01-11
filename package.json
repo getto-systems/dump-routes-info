@@ -1,24 +1,24 @@
 {
-  "name": "parse-routes",
-  "version": "0.1.0",
-  "description": "parse routes information from config file",
+  "name": "dump-routes",
+  "version": "0.2.0",
+  "description": "dump routes information from config file",
   "main": "index.js",
   "bin": {
-    "parse-routes": "./bin/parse-routes.js"
+    "dump-routes": "./bin/dump-routes.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/getto-systems/parse-routes.git"
+    "url": "git+https://github.com/getto-systems/dump-routes.git"
   },
   "author": "shun@getto.systems",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/getto-systems/parse-routes/issues"
+    "url": "https://github.com/getto-systems/dump-routes/issues"
   },
-  "homepage": "https://github.com/getto-systems/parse-routes#readme",
+  "homepage": "https://github.com/getto-systems/dump-routes#readme",
   "dependencies": {},
   "devDependencies": {
     "commander": "^2.19.0",

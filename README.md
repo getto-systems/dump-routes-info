@@ -1,9 +1,9 @@
-# parse-routes
+# dump-routes
 
-Node.js utility: parse routes information from config file
+Node.js utility: dump routes information from config file
 
 ```
-parse-routes -f /path/to/routes.yml
+dump-routes -f /path/to/routes.yml
 ```
 
 
@@ -25,7 +25,7 @@ parse-routes -f /path/to/routes.yml
 ### CLI
 
 ```
-$ parse-routes -f /path/to/routes.yml -e utf8
+$ dump-routes -f /path/to/routes.yml -e utf8
 ```
 
 #### Example
@@ -48,7 +48,7 @@ $ parse-routes -f /path/to/routes.yml -e utf8
 ```
 
 ```
-$ parse-routes -f /path/to/routes.yml
+$ dump-routes -f /path/to/routes.yml
 
 {"info":{"path":"index","module":"Index"},"entry":{"name":"index","title":"Home"}}
 {"info":{"path":"system/config","module":"System.Config"},"entry":{"name":"config","title":"System Settings"}}
@@ -59,13 +59,13 @@ $ parse-routes -f /path/to/routes.yml
 ### Install
 
 ```
-$ npm install --save-dev parse-routes
+$ npm install --save-dev dump-routes
 ```
 
 
 <a id="License"></a>
 ## License
 
-parse-routes is licensed under the [MIT](LICENSE) license.
+dump-routes is licensed under the [MIT](LICENSE) license.
 
 Copyright &copy; since 2018 shun@getto.systems
