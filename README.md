@@ -1,4 +1,4 @@
-# dump-routes-info
+# node-dump-routes-info
 
 Node.js utility: dump routes information from config file
 
@@ -66,6 +66,6 @@ $ npm install --save-dev dump-routes-info
 <a id="License"></a>
 ## License
 
-dump-routes-info is licensed under the [MIT](LICENSE) license.
+node-dump-routes-info is licensed under the [MIT](LICENSE) license.
 
 Copyright &copy; since 2018 shun@getto.systems

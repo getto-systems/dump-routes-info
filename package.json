@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/getto-systems/dump-routes-info.git"
+    "url": "git+https://github.com/getto-systems/node-dump-routes-info.git"
   },
   "author": "shun@getto.systems",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/getto-systems/dump-routes-info/issues"
+    "url": "https://github.com/getto-systems/node-dump-routes-info/issues"
   },
-  "homepage": "https://github.com/getto-systems/dump-routes-info#readme",
+  "homepage": "https://github.com/getto-systems/node-dump-routes-info#readme",
   "dependencies": {
     "commander": "^2.19.0",
     "js-yaml": "^3.12.1"
