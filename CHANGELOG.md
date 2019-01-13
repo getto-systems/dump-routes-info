@@ -1,3 +1,7 @@
+# Version : 1.1.0
+
+rename: repository
+
 # Version : 1.0.0
 
 major version
