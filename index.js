@@ -25,7 +25,7 @@ const dump = (path, data) => {
                 } else {
                   return tip[0].toUpperCase() + tip.substring(1);
                 }
-              });
+              }).join("");
             }).join("."),
           },
           entry: entry,
